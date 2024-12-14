@@ -1,0 +1,14 @@
+C:\Users\tufan\OneDrive\Desktop\code\conditionalStatment\obj\Debug\net9.0\conditionalStatment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tufan\OneDrive\Desktop\code\conditionalStatment\obj\Debug\net9.0\conditionalStatment.AssemblyInfoInputs.cache
+C:\Users\tufan\OneDrive\Desktop\code\conditionalStatment\obj\Debug\net9.0\conditionalStatment.AssemblyInfo.cs
+C:\Users\tufan\OneDrive\Desktop\code\conditionalStatment\obj\Debug\net9.0\conditionalStatment.csproj.CoreCompileInputs.cache
+C:\Users\tufan\OneDrive\Desktop\code\conditionalStatment\bin\Debug\net9.0\conditionalStatment.exe
+C:\Users\tufan\OneDrive\Desktop\code\conditionalStatment\bin\Debug\net9.0\conditionalStatment.deps.json
+C:\Users\tufan\OneDrive\Desktop\code\conditionalStatment\bin\Debug\net9.0\conditionalStatment.runtimeconfig.json
+C:\Users\tufan\OneDrive\Desktop\code\conditionalStatment\bin\Debug\net9.0\conditionalStatment.dll
+C:\Users\tufan\OneDrive\Desktop\code\conditionalStatment\bin\Debug\net9.0\conditionalStatment.pdb
+C:\Users\tufan\OneDrive\Desktop\code\conditionalStatment\obj\Debug\net9.0\conditionalStatment.dll
+C:\Users\tufan\OneDrive\Desktop\code\conditionalStatment\obj\Debug\net9.0\refint\conditionalStatment.dll
+C:\Users\tufan\OneDrive\Desktop\code\conditionalStatment\obj\Debug\net9.0\conditionalStatment.pdb
+C:\Users\tufan\OneDrive\Desktop\code\conditionalStatment\obj\Debug\net9.0\conditionalStatment.genruntimeconfig.cache
+C:\Users\tufan\OneDrive\Desktop\code\conditionalStatment\obj\Debug\net9.0\ref\conditionalStatment.dll
